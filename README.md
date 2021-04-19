@@ -2,7 +2,7 @@
 
 The script CRISPR_vs_plasmid_v3.py is written by Alexander Martynov
 
-For corresponding: alexander.martynov@skolkovotech.ru
+For correspondence: alexander.martynov@skolkovotech.ru
 
 Here we developed the mathematical model demonstrating a stochastic nature of interaction between plasmid replication and CRISPR interference rates.
 
