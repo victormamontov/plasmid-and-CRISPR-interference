@@ -1,6 +1,6 @@
 # plasmid-and-CRISPR-interference
 
-The script is written by Alexander Martynov.
+The script CRISPR_vs_plasmid_v3.py is written by Alexander Martynov.
 
 Here we developed the mathematical model demonstrating a stochastic nature of interaction between plasmid replication and CRISPR interference rates.
 
